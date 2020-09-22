@@ -10,7 +10,7 @@ if (rand < 1) {
     computerAction = '3';
 }
 
-if (computerAction == playAction) {
+if (computerAction === playAction) {
     console.log("相同");
 } else {
     console.log("不同");
