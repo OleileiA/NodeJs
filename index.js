@@ -2,6 +2,7 @@ let playAction = process.argv[process.argv.length - 1];
 
 let rand = Math.random() * 3;
 let computerAction;
+
 if (rand < 1) {
     computerAction = '1';
 } else if (rand > 1) {
