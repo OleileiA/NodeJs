@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/OleileiA/NodeJs/issues"
   },
-  "homepage": "https://github.com/OleileiA/NodeJs#readme"
+  "homepage": "https://github.com/OleileiA/NodeJs#readme",
+  "devDependencies": {
+    "glob": "^7.1.6"
+  }
 }
